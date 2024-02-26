@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/danie/Desktop/UNI/SEMESTRE III/ESTRUCTURA",
-      "program": "c:/Users/danie/Desktop/UNI/SEMESTRE III/ESTRUCTURA/build/Debug/outDebug",
+      "cwd": "c:/Users/danie/Desktop/UNI/SEMESTRE III/DataStructures",
+      "program": "c:/Users/danie/Desktop/UNI/SEMESTRE III/DataStructures/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
